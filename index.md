@@ -20,7 +20,7 @@ This project was an exercise for RBE/ME 4815 in using an industrial robotic arm 
 
 - [Catching Balls with a Robotic Arm](www.google.com)
 
-This project was also an exercise for RBE/ME 4815 using an industrial robotic arm to catch balls thrown towards the arm in a hoop held b an end effector. Two Pixy cameras were used to locate a ball and predict its trajectory. The arm was then moved to a point along the trajectory in order to catch the ball. This project was done in ROS which had too much overhead to move the arm quickly enough. Howevever, the arm was moved to the correct location by messages sent but not received in real time. Unlike both of the previous projects, this was all done on a laptop rather than the machine in Washburn Shops.
+This project was also an exercise for RBE/ME 4815 using an industrial robotic arm to catch balls thrown towards the arm in a hoop held b an end effector. Two Pixy cameras were used to locate a ball and predict its trajectory. The arm was then moved to a point along the trajectory in order to catch the ball. This project was done in ROS which had too much overhead to move the arm quickly enough. Howevever, the arm was moved to the correct location by messages sent but not received in real time. Unlike both of the previous projects, this was all done on a laptop rather than the machine in Washburn Shops and includes a guide for setting up a ROS system.
 
 
 
