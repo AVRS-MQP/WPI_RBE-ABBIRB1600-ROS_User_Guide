@@ -1,8 +1,8 @@
 # WPI_RBE-ABBIRB1600-ROS_User_Guide
 
-### ADFF
+### Description
 
-TEXTA
+This Site is a hub for examples of past ROS-I projects and help getting setup up with ROS-I on WPI's ABB-IRB-1600 Robotic arm. 
 
 # Examples
 
