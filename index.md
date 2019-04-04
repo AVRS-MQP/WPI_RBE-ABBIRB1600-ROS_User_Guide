@@ -8,6 +8,9 @@ TEXTA
 
 As other MQPs and Industrial projects create more examples feel free to make a pull request on this repo to add your repo as an example.
 
+- [Template](https://github.com/AVRS-MQP/template_ws)
+A minimal template based on the code of AVRS and Seurobot project. Includes corrected URDF and launch files over ROS-I Experimental branch. Has packages and template code for using Python to C++ ROS action server/client pair to enable motion planning in Python. 
+
 - [AVRS (Automatic Vehicle Recharging Station) - MQP](https://github.com/AVRS-MQP/AVRS 
 )
 
