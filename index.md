@@ -29,7 +29,7 @@ This project was also an exercise for RBE/ME 4815 using an industrial robotic ar
 
 
 # Setup Guide
-A detailed guide to setting up ROS-I as done by all projects listed above can be found [here]. A number of links to ROS Wiki tutorials and downloads are provided and are all necessary. 
+A detailed guide to setting up ROS-I as done by all projects listed above can be found [here](https://github.com/AVRS-MQP/WPI_RBE-ABBIRB1600-ROS_User_Guide/blob/master/ROS-I_guide.pdf). A number of links to ROS Wiki tutorials and downloads are provided and are all necessary. 
 
 # Usage 
 All three of these projects were done on the ABB-IRB 1600 6/1.45 arm at WPI in Washburn Shops Room 108. In their current state, they will only function correctly on that model of arm. However, it is possible to modify them or take components for other applications. 
